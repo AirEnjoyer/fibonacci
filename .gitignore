@@ -3,3 +3,5 @@ CMakeCache.txt
 CMakeFilse/
 cmake_install.cmake
 Fibonacci
+.ninja_deps
+.ninja_logs
