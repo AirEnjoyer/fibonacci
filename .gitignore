@@ -1,0 +1,5 @@
+build.ninja
+CMakeCache.txt
+CMakeFilse/
+cmake_install.cmake
+Fibonacci
